@@ -1,0 +1,43 @@
+# project stored data
+*.sqlite3
+staticfiles
+db.sqlite3
+
+# virtual envs
+venv/
+.venv/
+.env
+env
+env/
+
+# Python temp files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# settings files
+.DS_Store
+*.vscode
+.vscode/
+
+*.pyo
+*.pyd
+.cache
+.idea/
+
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+dist/
+build/
+*.egg-inf
+
+# personal files
+secret_key.py
+copilot_fresh.py
+auth_instructions.py
+fix.py
+
